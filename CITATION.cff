@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: Log trigger
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Laurence
+    family-names: R. Ugalde
+    email: laurence.ugalde@gmail.com
