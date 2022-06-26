@@ -1,7 +1,5 @@
 # Log trigger
 
-## Introduction
-
 Log Trigger is a a pattern to create a [trigger](https://en.wikipedia.org/wiki/Database_trigger) to automatically store historical information
 of a table in a relational database.
 
