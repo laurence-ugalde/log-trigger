@@ -9,8 +9,15 @@ More detailed information: Log trigger in [Wikipedia](https://en.wikipedia.org/w
 
 ## Repository
 
-The intention of this repository is to mantain the definition of the Log Trigger in as many database providers as possible,
+The intention of this repository is to mantain the definition of the **Log trigger** in as many database providers as possible,
 given that they use very different syntax and semantics, specially for triggers.
+
+Currently, we have the defintition for the following database providers:
+
+* **IBM DB2**
+* **Microsoft SQL Server**
+* **MySQL**
+* **Oracle**
 
 ## License
 
