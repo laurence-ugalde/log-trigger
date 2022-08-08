@@ -21,7 +21,7 @@ Currently, we have the defintition for the following database providers:
 
 ## License
 
-Log trigger is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license, so you can used freely,
+Log trigger is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license, so you can use it freely,
 even for commercial purposes, provided you give appropriate credit to the author.
 
 ## Contributing
