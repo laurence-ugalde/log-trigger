@@ -18,6 +18,7 @@ Currently, we have the defintition for the following database providers:
 * **Microsoft SQL Server**
 * **MySQL**
 * **Oracle**
+* **PostgreSQL**
 
 ## License
 
