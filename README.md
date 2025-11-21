@@ -1,6 +1,6 @@
 # Log trigger
 
-**Log trigger** is a a pattern to create a [trigger](https://en.wikipedia.org/wiki/Database_trigger) to automatically store historical information
+**Log trigger** is a an SQL idiom to create a [trigger](https://en.wikipedia.org/wiki/Database_trigger) to automatically store historical information
 of a table in a relational database.
 
 It works on a parallel table, creating infomation in a scheme of [tuple versioning](https://en.wikipedia.org/wiki/Tuple-versioning).
